@@ -17,9 +17,9 @@ mirror:
     - catalog: registry.redhat.io/redhat/redhat-operator-index:v4.18
       packages:
         - name: openshift-gitops-operator
-        - name: openshift-pipelines-operator
+        - name: openshift-pipelines-operator-rh
         - name: cluster-logging
-        - name: oadp-operator
+        - name: redhat-oadp-operator
         - name: advanced-cluster-management
         - name: rhacs-operator
         - name: compliance-operator
