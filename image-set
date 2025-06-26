@@ -19,8 +19,6 @@ mirror:
         - name: openshift-gitops-operator
         - name: openshift-pipelines-operator
         - name: cluster-logging
-        - name: grafana-operator
-        - name: prometheus
         - name: oadp-operator
         - name: advanced-cluster-management
         - name: rhacs-operator
